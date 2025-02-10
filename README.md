@@ -34,7 +34,7 @@ CSS3 🎨
 
 Clone the repository:
 
-git clone https://github.com/chinky29/analog-clock.git
+git clone https://github.com/Chinky29/analog-clock.git
 
 Navigate to the project folder:
 
